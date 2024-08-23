@@ -1,0 +1,2 @@
+my_first_python
+-DCATKIN_DEVEL_PREFIX=/home/haejoon/ROS-python-topic/devel -DCMAKE_INSTALL_PREFIX=/home/haejoon/ROS-python-topic/install -G Unix Makefiles

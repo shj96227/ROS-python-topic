@@ -1,0 +1,8 @@
+prefix=/home/haejoon/ROS-python-topic/install
+
+Name: my_first_python
+Description: Description of my_first_python
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
